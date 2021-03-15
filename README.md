@@ -1,3 +1,3 @@
-# Proste REST API dla bazy PostgreSQL
+#   Simple API for testing Travis-CI
 
-Archiwum zawiera szkielet prostego – realizującego tzw. CRUD – API REST-owego dla „bazy zespołów” opartej o serwer relacyjnych baz danych PostgreSQL.
+[![Build Status](https://travis-ci.com/marekpolom/devops-lab03.svg?branch=master)](https://travis-ci.com/marekpolom/devops-lab03)
